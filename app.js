@@ -55,18 +55,3 @@ function reset(){
     }
 }
     
-
-
-// p2.button.addEventListener('click',function(){
-//     if(!isGameOver){
-//         p2Score += 1;
-//         if(p2Score === winningScore){
-//             isGameOver = true;
-//             p2Display.classList.add('has-text-success');
-//             p1Display.classList.add('has-text-danger');
-//             p1Button.disabled = true;
-//             p2Button.disabled = true;
-//         }
-//     p2Display.textContent=p2Score;
-//     }
-// });
